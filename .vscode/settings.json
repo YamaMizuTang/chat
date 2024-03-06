@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": false, //關掉自動存檔內建的重排版
+  "editor.codeActionsOnSave": { //存檔時會做的事情
+    "source.fixAll.stylelint": "explicit",
+    "source.fixAll.eslint": "explicit"
+  }
+}
